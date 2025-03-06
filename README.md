@@ -1,7 +1,7 @@
 # Julio Cesar Talarico
 Bem vindo ao meu git-hub pessoal, tenho 42 anos, estou aprofundando os estudos na área de DevOps, atualmente com mais de 10 anos de experiência na área de suporte ao usuário com experiência onshore e offshore. 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/julio-cesar-talarico-santana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-talarico-santana)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulioTalarico)
 
 ## Habilidades
