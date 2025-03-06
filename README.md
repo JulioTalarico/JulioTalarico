@@ -6,7 +6,7 @@ Bem-vindo ao meu GitHub! Sou um profissional com mais de 10 anos de experiência
 ## 🌐 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-talarico-santana)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JulioTalarico)  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juliotalarico@gmail.com)  
 
 ## 🛠️ Habilidades  
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)  
